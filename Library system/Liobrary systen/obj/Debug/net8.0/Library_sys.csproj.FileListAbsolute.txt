@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\bin\Debug\net8.0\Library_sys.exe
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\bin\Debug\net8.0\Library_sys.deps.json
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\bin\Debug\net8.0\Library_sys.runtimeconfig.json
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\bin\Debug\net8.0\Library_sys.dll
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\bin\Debug\net8.0\Library_sys.pdb
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.AssemblyInfo.cs
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.dll
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\refint\Library_sys.dll
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.pdb
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\Library_sys.genruntimeconfig.cache
+C:\Users\PC\source\repos\Liobrary systen\Liobrary systen\obj\Debug\net8.0\ref\Library_sys.dll
